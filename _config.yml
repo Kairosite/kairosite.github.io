@@ -1,7 +1,7 @@
 theme: minima
 title: Portfolio
 author: Kairosite
-description: description text here
+description: site description text here
 header_pages:
   - about.md
 minima:
