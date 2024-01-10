@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Portfolio
 author: Kairosite
 description: site description text here
